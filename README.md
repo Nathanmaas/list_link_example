@@ -1,0 +1,1 @@
+ruby practice Linked List example
